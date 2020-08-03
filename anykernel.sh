@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=M3 Kernel By MoveAngel Telegram:@MoveAngel Channel: @M3Kernel
+kernel.string=M3 Kernel By MoveAngel Telegram: @MoveAngel Channel: @M3Kernel
 do.devicecheck=1
 do.modules=0
 do.systemless=0
